@@ -15,4 +15,8 @@ Dataset:
 -Fecha de venta: Registro temporal en el que se efectuo la operacion. 
 
 Instrucciones para el scripts:
-----En espera----
+1. Asegurarse de contar con Python 3 instalado.
+2. Colocar el archivo de datos en 'datos/ventas.csv'.
+3. Ejecutar el script principal desde la terminal:
+   python scripts/analisis.py
+4. Los reportes resultantes se generarán automáticamente en la carpeta 'resultados/'.
